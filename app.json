@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Macs Fan Control",
+      "version": "1.5.16",
+      "support": "arm",
+      "state": 1
+    },
+    {
+      "name": "Things3",
+      "version": "3.19.6",
+      "support": "all",
+      "state": 1
+    },
+    {
+      "name": "Xnip",
+      "version": "2.2.3",
+      "support": "all",
+      "state": 1
+    }
+  ]
+  
